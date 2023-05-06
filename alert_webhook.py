@@ -1,5 +1,4 @@
 # PTL - Using Linode to run a distant server and Discord to send Alert messages
-# Using Binance API
 
 import ccxt, yfinance
 import pandas_ta as ta
